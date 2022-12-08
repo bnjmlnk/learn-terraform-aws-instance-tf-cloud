@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "organization-name"
+    organization = "bm-sandbox"
     workspaces {
       name = "learn-tfc-aws"
     }
